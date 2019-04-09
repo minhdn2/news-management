@@ -1,0 +1,42 @@
+Menu (dynamic generate? for sub-items also?)
+	Home Page
+		- slide
+		- about us
+		- list all product categories
+		- list all service categories
+		- list all project categories
+		- list all postss in all categories (pagging)
+	Intro
+		- list all intro categories
+			+ list all posts with the chosen category
+	Products
+		- product details
+		- user's comments
+		- sort by (newest / oldest)
+		- relevant products
+	Services
+		- list all service categories
+			+ list all posts with the chosen category
+	News
+		- list all news categories
+			+ list all posts with the chosen category
+	Projects
+		- list all project categories
+			+ list all posts with the chosen category
+	Documentation
+		- list all documentation categories
+			+ list all documentation data and allow to download file
+	Distribution System
+		- images/info
+	Contact
+		- company's contact info
+		- form for customer to send contact
+		- google map
+	Search feature for News and Products {name, description(optional?)}
+Footer
+	- company's contact info
+	- policy and instruction
+		+ list all categories
+			~ list all posts with the same categories?
+	- register on advising information
+	- company's link to facebook
